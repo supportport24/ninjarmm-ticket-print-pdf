@@ -21,7 +21,7 @@ Until this is on the Web Store, you can install it manually:
 5. Refresh your NinjaRMM tab.
 
 ## Why use this?
-NinjaOne is unable to add this Print button since initial request on November 19, 2021.
+NinjaOne is unable to add this Print button since 2021.
 Search for "Print Button" in Ninja Dojo for more info.
 
 This extension scrapes only the relevant ticket data and formats it into a clean, client-ready document.
