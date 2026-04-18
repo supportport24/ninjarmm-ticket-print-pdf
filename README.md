@@ -22,7 +22,7 @@ Until this is on the Web Store, you can install it manually:
 
 ## Why use this?
 NinjaOne is unable to add this Print button since initial request on November 19, 2021.
-https://ninjarmm.zendesk.com/hc/en-us/community/posts/4414073006477-Print-Button
+Search for "Print Button" in Ninja Dojo for more info.
 
 This extension scrapes only the relevant ticket data and formats it into a clean, client-ready document.
 
