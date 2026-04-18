@@ -1,4 +1,4 @@
-# ninjarmm-ticket-print-pdf
+NinjaRMM Unofficial Print & PDF v1.0
 Chrome Extension that adds Print and PDF export buttons to NinjaRMM tickets with automated time calculation.
 
 # NinjaRMM Unofficial Print & PDF Extension
