@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "NinjaRMM Unofficial Print & PDF",
+  "version": "1.0",
+  "description": "Adds Print and PDF export buttons to NinjaRMM tickets with automated time calculation.",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.ninjarmm.com/*"],
+      "js": ["html2pdf.bundle.min.js", "content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["html2pdf.bundle.min.js", "pdf-worker.js"],
+      "matches": ["https://*.ninjarmm.com/*"]
+    }
+  ]
+}
