@@ -21,7 +21,10 @@ Until this is on the Web Store, you can install it manually:
 5. Refresh your NinjaRMM tab.
 
 ## Why use this?
-NinjaRMM's native printing can often be clunky or include unnecessary UI elements. This extension scrapes only the relevant ticket data and formats it into a clean, client-ready document.
+NinjaOne is unable to add this Print button since initial request on November 19, 2021.
+https://ninjarmm.zendesk.com/hc/en-us/community/posts/4414073006477-Print-Button
+
+This extension scrapes only the relevant ticket data and formats it into a clean, client-ready document.
 
 ## Credits
 Uses the [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) library.
